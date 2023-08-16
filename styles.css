@@ -1,0 +1,6 @@
+/* invert the page colors */
+body {
+    background-color: black;
+    color: white;
+}
+
