@@ -1,1 +1,1 @@
-[url](https://jegathgreeny.github.io/)
+<https://jegathgreeny.github.io/>
