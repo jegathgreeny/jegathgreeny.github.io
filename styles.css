@@ -1,8 +1,21 @@
-/* invert the page colors */
+@font-face {
+    font-family: 'Agave Nerd Font';
+    src: url('/fonts/AgaveNerdFont-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Agave Nerd Font';
+    src: url('/fonts/AgaveNerdFont-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
     background-color: black;
     color: white;
-    font-family: 'Fira Code', sans-serif;
-
+    font-family: 'Agave Nerd Font', 'Fira Code', monospace;
 }
-
