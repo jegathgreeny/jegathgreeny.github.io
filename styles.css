@@ -7,9 +7,9 @@
 }
 
 @font-face {
-    font-family: 'Agave Nerd Font';
-    src: url('/fonts/AgaveNerdFont-Bold.ttf') format('truetype');
-    font-weight: 700;
+    font-family: 'CaskaydiaCove Nerd Font';
+    src: url('/fonts/CaskaydiaCove_Nerd_Font_Regular.ttf') format('truetype');
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
@@ -17,5 +17,5 @@
 body {
     background-color: black;
     color: white;
-    font-family: 'Agave Nerd Font', 'Fira Code', monospace;
+    font-family: 'Agave Nerd Font', 'CaskaydiaCove Nerd Font', monospace;
 }
